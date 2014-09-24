@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+C:\QAA\EOC\src\test\java\EOC_negativetesting\.metadata\.plugins\org.eclipse.jdt.core
